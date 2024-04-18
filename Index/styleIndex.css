@@ -31,8 +31,7 @@
 .button button {
   height: 100%;
   width: 100%;
-  border-radius: 15px;
-  box-shadow: 2px 2px 2px 2px #8400ff70;
+  box-shadow: 2px 2px 2px 2px #00ffff;
   background: linear-gradient(
     90deg,
     #e151e4,
@@ -58,5 +57,5 @@
     #4b66d2,
     #00ffff
   );
-  box-shadow: 2px 2px 2px 2px #00ffff68;
+  box-shadow: 2px 2px 2px 2px #00ffff;
 }

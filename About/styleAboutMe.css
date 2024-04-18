@@ -1,0 +1,14 @@
+.title {
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    color: #00ffff;
+  }
+.container{
+    height: max-content;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    ;
+}
+
