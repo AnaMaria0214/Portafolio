@@ -10,19 +10,19 @@ document.addEventListener("DOMContentLoaded", () => {
       <ul class="nav_Menu">
       <div class="box">
       <li class="nav_section">
-      <a href="../Home/home.html">Home</a>
+      <a href="/Home/home.html">Home</a>
     </li>
     </div>
         
         <div class="box">
         <li class="nav_section">
-          <a href="../About/aboutMe.html">About me</a>
+          <a href="/About/aboutMe.html">About me</a>
         </li>
         </div>
         
         <div class="box">
         <li class="nav_section">
-        <a href="../Contact/contacMe.html">Contact me</a>
+        <a href="/Contact/contacMe.html">Contact me</a>
       </li>
       </div>
         

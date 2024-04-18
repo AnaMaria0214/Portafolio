@@ -80,6 +80,8 @@ canvas {
   box-shadow: 2px 2px 2px 2px #00ffff;
 }
 .footer {
+  position: relative;
+  bottom: 20px;
   margin: 0 auto;
   width: 30%;
   height: min-content;
