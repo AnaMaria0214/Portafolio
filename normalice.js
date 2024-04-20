@@ -13,7 +13,6 @@ document.addEventListener("DOMContentLoaded", () => {
       <a href="/Home/home.html">Home</a>
     </li>
     </div>
-        
         <div class="box">
         <li class="nav_section">
           <a href="/About/aboutMe.html">About me</a>
